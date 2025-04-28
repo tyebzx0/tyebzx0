@@ -2,6 +2,8 @@
   <img src="./github-header-image (2).png" alt="Banner" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=B115F7&width=440&height=55&lines=Web+Development+Student)](https://git.io/typing-svg)
+
 <h2 align="center">Bit about me:</h2>
 
 <p align="center">
