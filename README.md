@@ -5,7 +5,7 @@
 I'm a web beginner , I'm from Ukraine. 
 I want to become a Full-Stack developer in the future. I`m studying Front-End</p>
 
-# Techs:
+<h2>Techs:</h2>
 Languages:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
