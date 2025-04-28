@@ -1,6 +1,5 @@
 
-<h1 >Hey, I'm TyeBzzX</h1>
-<h1>Bit about me:</h1>
+<h1>Hey, I'm TyeBzzX, its about me:</h1>
 <p>I am a student 👨‍🎓
 I'm a web beginner , I'm from Ukraine. 
 I want to become a Full-Stack developer in the future. I`m studying Front-End</p>
