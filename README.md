@@ -5,9 +5,7 @@
 <h2 align="center">Bit about me:</h2>
 
 <p align="center">
-  I'm a web beginner, I'm from Ukraine.<br>
-  I want to become a Full-Stack developer in the future.<br>
-  I'm studying Front-End.
+  I'm a web beginner, I'm from Ukraine.<br>I'm studying Front-End.I want to become a Full-Stack developer in the future.<br>
 </p>
 
 <h2 align="center">Techs:</h2>
