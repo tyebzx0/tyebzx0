@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**tyebzx0/tyebzx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 >Hey, I'm TyeBzzX</h1>
+<h1>Bit about me:</h1>
+<p>I am a student 👨‍🎓
+I'm a web beginner , I'm from Ukraine. 
+I want to become a Full-Stack developer in the future. I`m studying Front-End</p>
 
-Here are some ideas to get you started:
+# Techs:
+Languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+Frameworks & Preprocessors:
+
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+
+
+Other:
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+Stats:
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyebzx0&layout=compact&theme=dark&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
