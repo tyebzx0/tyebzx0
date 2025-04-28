@@ -1,9 +1,9 @@
 
-<h1>Hey, I'm TyeBzzX</h1>
+<p align="center">
+  <img src="github-header-image (2).png" alt="Banner" />
+</p>
 <h2>Bit about me:</h2>
-<p>I am a student 👨‍🎓
-I'm a web beginner , I'm from Ukraine. 
-I want to become a Full-Stack developer in the future. I`m studying Front-End</p>
+<p>I'm a web beginner , I'm from Ukraine. I want to become a Full-Stack developer in the future. I`m studying Front-End</p>
 
 <h2>Techs:</h2>
 Languages:
