@@ -2,7 +2,7 @@
   <img src="./github-header-image (2).png" alt="Banner" />
 </p>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=25&pause=1000&color=BDBDBD&background=FFFFFF00&width=500&lines=I+wish+everyone+good+luck+;and+remember%3A+live+and+work+in+your+free+time!+)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=25&pause=1000&color=BDBDBD&background=FFFFFF00&width=500&lines=I+wish+everyone+good+luck+;and+remember%3A+live+and+work+in+your+free+time!+" alt="Typing SVG" /></a>
 </p>
 <h2 align="center">Bit about me:</h2>
 
