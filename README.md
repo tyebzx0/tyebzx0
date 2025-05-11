@@ -23,12 +23,8 @@
 
 <p align="center"><b>Frameworks & Preprocessors:</b></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-</p>
-<p align="center">
-  <img scr="https://img.shields.io/badge/TailwindCSS-3B82F6.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white" alr="TAILWIND"
-</p>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 
 <p align="center"><b>Other:</b></p>
 
