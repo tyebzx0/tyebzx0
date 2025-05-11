@@ -4,38 +4,36 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=25&pause=1000&color=B6B6B6&width=620&height=70&lines=Remember%3A+live+and+work+in+your+free+time!" alt="Typing SVG" /></a>
 </p>
-<h2 align="center">Bit about me:</h2>
+<h2>Bit about me:</h2>
 
-<p align="center">
-  I'm a web beginner, I'm from Ukraine.<br>I'm studying Front-End.I want to become a Full-Stack developer in the future.<br>
-</p>
+I'm a web beginner, I'm from Ukraine.<br>I'm studying Front-End.I want to become a Full-Stack developer in the future.<br>
 
-<h2 align="center">Techs:</h2>
+<h2>Techs:</h2>
 
-<p align="center"><b>Languages:</b></p>
+<p><b>Languages:</b></p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
-<p align="center"><b>Frameworks & Preprocessors:</b></p>
+<p><b>Frameworks & Preprocessors:</b></p>
 
-<p align="center">![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</p>
-<p alignt="center">![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</p>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 
-<p align="center"><b>Other:</b></p>
+<p><b>Other:</b></p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<h2 align="center">Stats:</h2>
+<h2>Stats:</h2>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyebzx0&layout=compact&theme=dark&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
 </p>
